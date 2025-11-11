@@ -23,7 +23,7 @@ It allows you to:
 
 ---
 
-## ⚙️ Features Explained
+## ⚙️ Features 
 
 **1. Play / Pause / Next / Previous:**  
 These buttons allow you to control playback of songs. You can play or pause music, and switch between songs easily.
@@ -77,8 +77,7 @@ The project usually contains the following files:
 
 ---
 
-## 🎶 How to Add Songs (Step-by-Step Explanation)
-
+## 🎶 How to Add Songs 
 Adding songs is one of the most important parts of this app. You can do this inside the **Add Song** section that appears on the webpage.
 
 ### Step 1:  “Add Song” section:
@@ -135,7 +134,7 @@ That means it will stay there even after refreshing or closing your browser.
 
 ---
 
-### Step 4: Reset Playlist (optional)
+### Step 4: Reset Playlist 
 
 If you want to remove all manually added songs and go back to the original list, click the **Reset Playlist** button.  
 This deletes your added songs and restores the default songs.
@@ -219,7 +218,7 @@ Despite its difficulty, completing it boosts your **front-end development skills
 
 Experience the **Music Player Web App** live in your browser:  
 
-## 🌐 [Music Player](https://sharmikachenna.github.io/music-player-web-app/)  
+## 👉 [Music Player](https://sharmikachenna.github.io/music-player-web-app/)  
 
 > You can also run it locally by opening the `index.html` file in any web browser.
 
