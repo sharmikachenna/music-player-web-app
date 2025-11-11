@@ -220,5 +220,9 @@ Experience the **Music Player Web App** live in your browser:
 
 ## 👉 [Music Player](https://sharmikachenna.github.io/music-player-web-app/)  
 
-> You can also run it locally by opening the `index.html` file in any web browser.
+----
+
+# 👤 Author
+
+Sharmika Chenna
 
